@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2020.1.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_FLAGS=--coverage -DCMAKE_C_FLAGS=--coverage -G "CodeBlocks - MinGW Makefiles" "D:\CLionProjects\Coursera\Data Structures and Algorithms\Algorithmic Toolbox\Week-2\Week2-Problem1"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/CLionProjects/Coursera/Data Structures and Algorithms/Algorithmic Toolbox/Week-2/Week2-Problem1/cmake-build-debug-coverage

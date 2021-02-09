@@ -1,0 +1,34 @@
+        -:    0:Source:D:/CLionProjects/Coursera/Data Structures and Algorithms/Algorithmic Toolbox/Week-2/Week2-Problem1/main.cpp
+        -:    0:Graph:D:\CLionProjects\Coursera\Data Structures and Algorithms\Algorithmic Toolbox\Week-2\Week2-Problem1\cmake-build-debug-coverage\CMakeFiles\Week1_Problem1.dir\main.cpp.gcno
+        -:    0:Data:D:\CLionProjects\Coursera\Data Structures and Algorithms\Algorithmic Toolbox\Week-2\Week2-Problem1\cmake-build-debug-coverage\CMakeFiles\Week1_Problem1.dir\main.cpp.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include <iostream>
+        -:    2:
+        -:    3:using namespace std;
+        -:    4:
+        -:    5:long fibonacci(int number);
+        -:    6:
+        1:    7:int main() {
+        -:    8:
+        -:    9:    int number;
+        1:   10:    cin >> number;
+        1:   10-block  0
+        -:   11:
+        1:   12:    cout << fibonacci(number);
+        1:   12-block  0
+        1:   12-block  1
+        -:   13:
+        1:   14:    return 0;
+        1:   14-block  0
+        -:   15:}
+        -:   16:
+       41:   17:long fibonacci(int number)
+        -:   18:{
+       41:   19:    if(number <= 1)
+       41:   19-block  0
+       21:   20:        return number;
+       21:   20-block  0
+       20:   21:    return fibonacci(number - 1) + fibonacci(number - 2);
+       20:   21-block  0
+        -:   22:}

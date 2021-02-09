@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CLionProjects/Coursera/Data Structures and Algorithms/Algorithmic Toolbox/Week-3/Week3-Problem2/main.cpp
+iostream
+-
+algorithm
+-
+iomanip
+-
+vector
+D:/CLionProjects/Coursera/Data Structures and Algorithms/Algorithmic Toolbox/Week-3/Week3-Problem2/vector
+
