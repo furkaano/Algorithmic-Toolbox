@@ -1,5 +1,5 @@
 # Algorithmic-Toolbox
-Here is a solution of Algorithmic Toolbox Course on Coursera by UC San Diego. 
+Here is a solution of Algorithmic Toolbox Course on Coursera by UC San Diego. I implemented my solutions in C++.
 
 ## WEEK 1 - Programming Challenges -> [Document](Documents/week1_programming_challenges/week1_programming_challenges.pdf)
 ### Solutions
