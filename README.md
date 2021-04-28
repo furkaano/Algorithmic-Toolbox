@@ -6,7 +6,7 @@ Here is a solution of Algorithmic Toolbox Course on Coursera by UC San Diego.
 * [Sum of two Digits]()
 * [Maximum Pairwise Product]()
 
-## WEEK 2 - Algorithmic Warm-up -> [Document](Algorithmic-Toolbox/Documents/week2_algorithmic_warmup)
+## WEEK 2 - Algorithmic Warm-up -> [Document](Algorithmic-Toolbox/Documents/week2_algorithmic_warmup/week2_algorithmic_warmup.pdf)
 ### Solutions
 * [Fibonacci Number]()
 * [Last Digit of a Large Fibonacci Number]()
