@@ -1,7 +1,7 @@
 # Algorithmic-Toolbox
 Here is a solution of Algorithmic Toolbox Course on Coursera by UC San Diego. 
 
-## WEEK 1 - Programming Challenges -> [Document](Documents/week1_programming_challenges)
+## WEEK 1 - Programming Challenges -> [Document](Documents/week1_programming_challenges/week1_programming_challenges.pdf)
 ### Solutions
 * [Sum of two Digits]()
 * [Maximum Pairwise Product]()
@@ -17,7 +17,7 @@ Here is a solution of Algorithmic Toolbox Course on Coursera by UC San Diego.
 * [Last Digit of the Sum of Fibonacci Numbers Again]()
 * [Last Digit of the Sum of Squares of Fibonacci Numbers]()
 
-## WEEK 3 - Greedy Algorithms -> [Document](Documents/week3_greedy_algorithms)
+## WEEK 3 - Greedy Algorithms -> [Document](Documents/week3_greedy_algorithms/week3_greedy_algorithms.pdf)
 ### Solutions
 * [Money Change]()
 * [Maximum Value of the Loot]()
@@ -27,7 +27,7 @@ Here is a solution of Algorithmic Toolbox Course on Coursera by UC San Diego.
 * [Maximum Number of Prizes]()
 * [Maximum Salary]()
 
-## WEEK 4 - Divide and Conquer -> [Document](Documents/week4_divide_and_conquer)
+## WEEK 4 - Divide and Conquer -> [Document](Documents/week4_divide_and_conquer/week4_divide_and_conquer)
 ### Solutions
 * [Binary Search]()
 * [Majority Element]()
@@ -36,7 +36,7 @@ Here is a solution of Algorithmic Toolbox Course on Coursera by UC San Diego.
 * [Organizing a Lottery]()
 * [Closest Points]()
 
-## WEEK 5 - Dynamic Programming 1 -> [Document](Documents/week5_dynamic_programming1)
+## WEEK 5 - Dynamic Programming 1 -> [Document](Documents/week5_dynamic_programming1/week5_dynamic_programming1.pdf)
 ### Solutions
 * [Money Change Again]()
 * [Primitive Calculator]()
@@ -44,7 +44,7 @@ Here is a solution of Algorithmic Toolbox Course on Coursera by UC San Diego.
 * [Longest Common Subsequence of Two Sequences]()
 * [Longest Common Subsequence of Three Sequences]()
 
-## WEEK 6 - Dynamic Programming 2 -> [Document](Documents/week6_dynamic_programming2)
+## WEEK 6 - Dynamic Programming 2 -> [Document](Documents/week6_dynamic_programming2/week6_dynamic_programming2.pdf)
 ### Solutions
 * [Maximum Amount of Gold]()
 * [Partitioning Souvenirs]()
