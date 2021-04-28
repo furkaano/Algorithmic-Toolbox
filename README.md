@@ -3,8 +3,8 @@ Here is a solution of Algorithmic Toolbox Course on Coursera by UC San Diego.
 
 ## WEEK 1 - Programming Challenges -> [Document](Documents/week1_programming_challenges/week1_programming_challenges.pdf)
 ### Solutions
-* [Sum of two Digits]()
-* [Maximum Pairwise Product]()
+* [Sum of two Digits](Week-1/Week1-Problem1/main.cpp)
+* [Maximum Pairwise Product](Week-1/Week1-Problem2/main.cpp)
 
 ## WEEK 2 - Algorithmic Warm-up -> [Document](Documents/week2_algorithmic_warmup/week2_algorithmic_warmup.pdf)
 ### Solutions
