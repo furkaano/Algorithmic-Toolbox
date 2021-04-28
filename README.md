@@ -1,12 +1,12 @@
 # Algorithmic-Toolbox
 Here is a solution of Algorithmic Toolbox Course on Coursera by UC San Diego. 
 
-## WEEK 1 - Programming Challenges -> [Document](Algorithmic-Toolbox/Documents/week1_programming_challenges)
+## WEEK 1 - Programming Challenges -> [Document](Documents/week1_programming_challenges)
 ### Solutions
 * [Sum of two Digits]()
 * [Maximum Pairwise Product]()
 
-## WEEK 2 - Algorithmic Warm-up -> [Document](Algorithmic-Toolbox/Documents/week2_algorithmic_warmup/week2_algorithmic_warmup.pdf)
+## WEEK 2 - Algorithmic Warm-up -> [Document](Documents/week2_algorithmic_warmup/week2_algorithmic_warmup.pdf)
 ### Solutions
 * [Fibonacci Number]()
 * [Last Digit of a Large Fibonacci Number]()
@@ -17,7 +17,7 @@ Here is a solution of Algorithmic Toolbox Course on Coursera by UC San Diego.
 * [Last Digit of the Sum of Fibonacci Numbers Again]()
 * [Last Digit of the Sum of Squares of Fibonacci Numbers]()
 
-## WEEK 3 - Greedy Algorithms -> [Document](Algorithmic-Toolbox/Documents/week3_greedy_algorithms)
+## WEEK 3 - Greedy Algorithms -> [Document](Documents/week3_greedy_algorithms)
 ### Solutions
 * [Money Change]()
 * [Maximum Value of the Loot]()
@@ -27,7 +27,7 @@ Here is a solution of Algorithmic Toolbox Course on Coursera by UC San Diego.
 * [Maximum Number of Prizes]()
 * [Maximum Salary]()
 
-## WEEK 4 - Divide and Conquer -> [Document](Algorithmic-Toolbox/Documents/week4_divide_and_conquer)
+## WEEK 4 - Divide and Conquer -> [Document](Documents/week4_divide_and_conquer)
 ### Solutions
 * [Binary Search]()
 * [Majority Element]()
@@ -36,7 +36,7 @@ Here is a solution of Algorithmic Toolbox Course on Coursera by UC San Diego.
 * [Organizing a Lottery]()
 * [Closest Points]()
 
-## WEEK 5 - Dynamic Programming 1 -> [Document](Algorithmic-Toolbox/Documents/week5_dynamic_programming1)
+## WEEK 5 - Dynamic Programming 1 -> [Document](Documents/week5_dynamic_programming1)
 ### Solutions
 * [Money Change Again]()
 * [Primitive Calculator]()
@@ -44,7 +44,7 @@ Here is a solution of Algorithmic Toolbox Course on Coursera by UC San Diego.
 * [Longest Common Subsequence of Two Sequences]()
 * [Longest Common Subsequence of Three Sequences]()
 
-## WEEK 6 - Dynamic Programming 2 -> [Document](Algorithmic-Toolbox/Documents/week6_dynamic_programming2)
+## WEEK 6 - Dynamic Programming 2 -> [Document](Documents/week6_dynamic_programming2)
 ### Solutions
 * [Maximum Amount of Gold]()
 * [Partitioning Souvenirs]()
