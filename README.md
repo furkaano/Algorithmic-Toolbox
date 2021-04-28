@@ -54,5 +54,5 @@ The course covers basic algorithmic techniques and ideas for computational probl
 
 
 ## Certificate
-![image](https://user-images.githubusercontent.com/62816021/116437094-5bbd1a80-a84d-11eb-951f-0b545f39b95b.png)
+![image](https://user-images.githubusercontent.com/62816021/116437094-5bbd1a80-a84d-11eb-951f-0b545f39b95b.png) 
 
