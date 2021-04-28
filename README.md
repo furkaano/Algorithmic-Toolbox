@@ -1,5 +1,7 @@
 # Algorithmic-Toolbox
-Here is a solution of Algorithmic Toolbox Course on Coursera by UC San Diego. I implemented my solutions in C++.
+The course covers basic algorithmic techniques and ideas for computational problems arising frequently in practical applications: sorting and searching, divide and conquer, greedy algorithms, dynamic programming. We will learn a lot of theory: how to sort data and how it helps for searching; how to break a large problem into pieces and solve them recursively; when it makes sense to proceed greedily; how dynamic programming is used in genomic studies. You will practice solving computational problems, designing new algorithms, and implementing solutions efficiently (so that they run in less than a second).
+
+#### In below, I implemented my solutions in C++.
 
 ## WEEK 1 - Programming Challenges -> [Document](Documents/week1_programming_challenges/week1_programming_challenges.pdf)
 ### Solutions
@@ -49,4 +51,8 @@ Here is a solution of Algorithmic Toolbox Course on Coursera by UC San Diego. I 
 * [Maximum Amount of Gold](Week-6/Week6-Problem1/main.cpp)
 * [Partitioning Souvenirs](Week-6/Week6-Problem2/main.cpp)
 * [Maximum Value of an Arithmetic Expression](Week-6/Week6-Problem3/main.cpp)
+
+
+## Certificate
+![image](https://user-images.githubusercontent.com/62816021/116437094-5bbd1a80-a84d-11eb-951f-0b545f39b95b.png)
 
